@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaime Lleras
-- 👀 I’m interested in Arts, Backend and Frontend programming.
-- 🌱 I’m currently learning Java and studying a Double Degree in computer ingeneering and video games.
+- 👀 I’m interested in Arts, Science and maily backend programming.
+- 🌱 I’m currently learning C++ and studying a Double Degree in computer ingeneering and video games.
 - 💞️ I’m looking to collaborate on any comission in web developement, design or videogames.
 - 📫 How to reach me: email at jaime.lleras.7@gmail.com
 
